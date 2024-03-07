@@ -12,7 +12,7 @@ This program is coded in micropython just for Numwoks calculator but it must wor
 ## 💬 Language
 This is a simple program, understandable for everyone, in Micropython.
 
-the script is not very optimized, I was just starting out.
+The script is not very optimized, I was just starting out.
 
 ## 🛠️ Details
 The only problem is all is in French.
