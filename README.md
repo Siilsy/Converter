@@ -9,9 +9,10 @@ Examples of using : You don't know how many miles does 80 kilometers or how many
 ## 🖥️ Requirements
 This program is coded in micropython just for Numwoks calculator but it must works on a computer if you change the module to adapt with Pyhton.
 
-## 🛠️ Details
+## 💬 Language
 This is a simple program, understandable for everyone, in Micropython. 
 
+## 🛠️ Details
 The only problem is all is in French.
 
 Created the April 05, 2023.
