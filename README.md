@@ -6,6 +6,9 @@ For the currencies, **the values are right only if you use it the April 05 of 20
 
 Examples of using : You don't know how many miles does 80 kilometers or how many seconds is 3 weeks ? Use this simple program !
 
+## 🖥️ Requirements
+This program is coded in micropython just for Numwoks calculator but it must works on a computer if you change the module to adapt with Pyhton.
+
 ## 🛠️ Details
 This is a simple program, understandable for everyone, in Micropython. 
 
